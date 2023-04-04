@@ -1,5 +1,3 @@
-# dca0209-dataStructure-II
-
 # App Store and Google Play Store Analysis
 
 This Python code reads in two CSV files, one containing data for mobile applications in the App Store and the other for the Google Play Store. The code then performs various analyses and manipulations on the data sets, including:
@@ -11,16 +9,12 @@ This Python code reads in two CSV files, one containing data for mobile applicat
 - Isolating free apps
 - Analyzing frequency tables for different attributes
 
-##
-
 ## Files
 
 The code requires two CSV files, which should be saved in the same directory as the Python file:
 
 - `AppleStore.csv`: contains data for apps in the App Store
 - `googleplaystore.csv`: contains data for apps in the Google Play Store
-
-##
 
 ## Code Overview
 
@@ -34,13 +28,9 @@ The code performs the following steps:
 6. Isolate free apps from both data sets.
 7. Analyze the frequency tables for different attributes to gain insights into the data.
 
-##
-
 ## Usage
 
 To use this code, save it in the same directory as the `AppleStore.csv` and `googleplaystore.csv` files. Then, run the code in a Python environment, such as Jupyter Notebook or Spyder. The output will display in the console.
-
-##
 
 ## References
 
